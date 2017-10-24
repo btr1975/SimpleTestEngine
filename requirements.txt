@@ -1,0 +1,4 @@
+directories==1.0.5
+persistentdatatools==2.2.8
+PyYAML==3.12
+menusys==1.1.5

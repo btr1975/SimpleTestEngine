@@ -1,0 +1,15 @@
+--- # Question Set
+question_sets:
+    -   question_set: Midwest
+        questions:
+        -   question: What is the state capital of Minnesota
+            question_type: mc
+            answer:
+            -   Poop
+            -   Saint Paul
+            -   Minneapolis
+            -   Golden Valley
+
+        -   question: What is the state capital in Miisouri
+            question_type: answer
+            answer: Jefferson City

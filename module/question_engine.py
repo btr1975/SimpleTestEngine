@@ -28,7 +28,8 @@ class QuestionEngine(object):
         question_file_names = pdt.list_files_in_directory(self.dirs.get_input_dir())
         question_file_names_menu = mnu.make_menu_dict_from_list(question_file_names)
         file_opt = int(mnu.menu(question_file_names_menu, 'Choose a Test Set', allow_sys_exit=True))
-        self.get_questions_yml(question_file_names_menu.get(file_opt).get('MENU'))
+        question_set = self.get_questions_yml(question_file_names_menu.get(file_opt).get('MENU'))
+        print(question_set)
 
     def get_questions_yml(self, yml_file_name):
         """
@@ -38,19 +39,25 @@ class QuestionEngine(object):
 
         """
         yml_data = os.path.join(self.dirs.get_input_dir(), yml_file_name)
-        a = yaml.safe_load(self.stream_yml(yml_data))
+        a = yaml.safe_load(self.__stream_yml(yml_data))
         question_sets = a.get('question_sets')
         if len(question_sets) > 1:
             temp_list = list()
             for question_set in question_sets:
                 temp_list.append(question_set.get('question_set'))
 
-            mnu.make_menu_dict_from_list(temp_list)
+            question_set_names_menu = mnu.make_menu_dict_from_list(temp_list)
+            set_opt = int(mnu.menu(question_set_names_menu, 'Choose a Question Set', allow_sys_exit=True))
+
+            for question_set in question_sets:
+                if question_set.get('question_set') == question_set_names_menu.get(set_opt).get('MENU'):
+                    return question_set
 
         else:
             return question_sets[0]
 
-    def stream_yml(self, yml_data):
+    @staticmethod
+    def __stream_yml(yml_data):
         """
         Method to retrieve yml stream
         :param yml_data: The yml data

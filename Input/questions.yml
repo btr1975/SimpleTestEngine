@@ -4,7 +4,8 @@ question_sets:
         questions:
         -   question: What is the state capital of Minnesota
             question_type: mc
-            answer:
+            answer: Saint Paul
+            answer_opts:
             -   Poop
             -   Saint Paul
             -   Minneapolis

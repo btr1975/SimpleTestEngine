@@ -3,5 +3,5 @@ config:
     input_directory: 
     output_directory: 
     logging_directory: 
-    logging_level: 
+    logging_level:
 # Logging level is 3 by default, highest is 1 lowest is 5

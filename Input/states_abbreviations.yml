@@ -1,0 +1,323 @@
+--- # States, Abbreviations Version: 1.0.0
+question_sets:
+    -   question_set: Midwest Typed Answer
+        questions:
+        -   question: What is the abbreviation of Illinois
+            answer: IL
+            feedback:
+                correct_answer: That is correct good job!
+                incorrect_answer: Sorry that is not a correct answer.  The correct answer is IL.
+
+        -   question: What is the abbreviation of Indiana
+            answer: IN
+            feedback:
+                correct_answer: That is correct good job!
+                incorrect_answer: Sorry that is not a correct answer.  The correct answer is IN.
+
+        -   question: What is the abbreviation of Iowa
+            answer: IA
+            feedback:
+                correct_answer: That is correct good job!
+                incorrect_answer: Sorry that is not a correct answer.  The correct answer is IA.
+
+        -   question: What is the abbreviation of Kansas
+            answer: KS
+            feedback:
+                correct_answer: That is correct good job!
+                incorrect_answer: Sorry that is not a correct answer.  The correct answer is KS.
+
+        -   question: What is the abbreviation of Michigan
+            answer: MI
+            feedback:
+                correct_answer: That is correct good job!
+                incorrect_answer: Sorry that is not a correct answer.  The correct answer is MI.
+
+        -   question: What is the abbreviation of Minnesota
+            answer: MN
+            feedback:
+                correct_answer: That is correct good job!
+                incorrect_answer: Sorry that is not a correct answer.  The correct answer is MN.
+
+        -   question: What is the abbreviation of Missouri
+            answer: MO
+            feedback:
+                correct_answer: That is correct good job!
+                incorrect_answer: Sorry that is not a correct answer.  The correct answer is MO.
+
+        -   question: What is the abbreviation of Nebraska
+            answer: NE
+            feedback:
+                correct_answer: That is correct good job!
+                incorrect_answer: Sorry that is not a correct answer.  The correct answer is NE.
+
+        -   question: What is the abbreviation of North Dakota
+            answer: ND
+            feedback:
+                correct_answer: That is correct good job!
+                incorrect_answer: Sorry that is not a correct answer.  The correct answer is ND.
+
+        -   question: What is the abbreviation of Ohio
+            answer: OH
+            feedback:
+                correct_answer: That is correct good job!
+                incorrect_answer: Sorry that is not a correct answer.  The correct answer is OH.
+
+        -   question: What is the abbreviation of South Dakota
+            answer: SD
+            feedback:
+                correct_answer: That is correct good job!
+                incorrect_answer: Sorry that is not a correct answer.  The correct answer is SD.
+
+        -   question: What is the abbreviation of Wisconsin
+            answer: WI
+            feedback:
+                correct_answer: That is correct good job!
+                incorrect_answer: Sorry that is not a correct answer.  The correct answer is WI.
+
+    -   question_set: Southeast Typed Answer
+        questions:
+        -   question: What is the abbreviation of Alabama
+            answer: AL
+            feedback:
+                correct_answer: That is correct good job!
+                incorrect_answer: Sorry that is not a correct answer.  The correct answer is AL.
+
+        -   question: What is the abbreviation of Arkansas
+            answer: AR
+            feedback:
+                correct_answer: That is correct good job!
+                incorrect_answer: Sorry that is not a correct answer.  The correct answer is AR.
+
+        -   question: What is the abbreviation of Florida
+            answer: FL
+            feedback:
+                correct_answer: That is correct good job!
+                incorrect_answer: Sorry that is not a correct answer.  The correct answer is FL.
+
+        -   question: What is the abbreviation of Georgia
+            answer: GA
+            feedback:
+                correct_answer: That is correct good job!
+                incorrect_answer: Sorry that is not a correct answer.  The correct answer is GA.
+
+        -   question: What is the abbreviation of Kentucky
+            answer: KY
+            feedback:
+                correct_answer: That is correct good job!
+                incorrect_answer: Sorry that is not a correct answer.  The correct answer is KY.
+
+        -   question: What is the abbreviation of Louisiana
+            answer: LA
+            feedback:
+                correct_answer: That is correct good job!
+                incorrect_answer: Sorry that is not a correct answer.  The correct answer is LA.
+
+        -   question: What is the abbreviation of Mississippi
+            answer: MS
+            feedback:
+                correct_answer: That is correct good job!
+                incorrect_answer: Sorry that is not a correct answer.  The correct answer is MS.
+
+        -   question: What is the abbreviation of North Carolina
+            answer: NC
+            feedback:
+                correct_answer: That is correct good job!
+                incorrect_answer: Sorry that is not a correct answer.  The correct answer is NC.
+
+        -   question: What is the abbreviation of South Carolina
+            answer: SC
+            feedback:
+                correct_answer: That is correct good job!
+                incorrect_answer: Sorry that is not a correct answer.  The correct answer is SC.
+
+        -   question: What is the abbreviation of Tennessee
+            answer: TN
+            feedback:
+                correct_answer: That is correct good job!
+                incorrect_answer: Sorry that is not a correct answer.  The correct answer is TN.
+
+        -   question: What is the abbreviation of Virginia
+            answer: VA
+            feedback:
+                correct_answer: That is correct good job!
+                incorrect_answer: Sorry that is not a correct answer.  The correct answer is VA.
+
+        -   question: What is the abbreviation of West Virginia
+            answer: WV
+            feedback:
+                correct_answer: That is correct good job!
+                incorrect_answer: Sorry that is not a correct answer.  The correct answer is WV.
+
+        -   question: What is the abbreviation of Delaware
+            answer: DE
+            feedback:
+                correct_answer: That is correct good job!
+                incorrect_answer: Sorry that is not a correct answer.  The correct answer is DE.
+
+        -   question: What is the abbreviation of Maryland
+            answer: MD
+            feedback:
+                correct_answer: That is correct good job!
+                incorrect_answer: Sorry that is not a correct answer.  The correct answer is MD.
+
+    -   question_set: West Typed Answer
+        questions:
+        -   question: What is the abbreviation of Alaska
+            answer: AK
+            feedback:
+                correct_answer: That is correct good job!
+                incorrect_answer: Sorry that is not a correct answer.  The correct answer is AK.
+
+        -   question: What is the abbreviation of Hawaii
+            answer: HI
+            feedback:
+                correct_answer: That is correct good job!
+                incorrect_answer: Sorry that is not a correct answer.  The correct answer is HI.
+
+        -   question: What is the abbreviation of California
+            answer: CA
+            feedback:
+                correct_answer: That is correct good job!
+                incorrect_answer: Sorry that is not a correct answer.  The correct answer is CA.
+
+        -   question: What is the abbreviation of Arizona
+            answer: AZ
+            feedback:
+                correct_answer: That is correct good job!
+                incorrect_answer: Sorry that is not a correct answer.  The correct answer is AZ.
+
+        -   question: What is the abbreviation of Oregon
+            answer: OR
+            feedback:
+                correct_answer: That is correct good job!
+                incorrect_answer: Sorry that is not a correct answer.  The correct answer is OR.
+
+        -   question: What is the abbreviation of Washington
+            answer: WA
+            feedback:
+                correct_answer: That is correct good job!
+                incorrect_answer: Sorry that is not a correct answer.  The correct answer is WA.
+
+        -   question: What is the abbreviation of Idaho
+            answer: ID
+            feedback:
+                correct_answer: That is correct good job!
+                incorrect_answer: Sorry that is not a correct answer.  The correct answer is ID.
+
+        -   question: What is the abbreviation of Montana
+            answer: MT
+            feedback:
+                correct_answer: That is correct good job!
+                incorrect_answer: Sorry that is not a correct answer.  The correct answer is MT.
+
+        -   question: What is the abbreviation of Wyoming
+            answer: WY
+            feedback:
+                correct_answer: That is correct good job!
+                incorrect_answer: Sorry that is not a correct answer.  The correct answer is WY.
+
+        -   question: What is the abbreviation of Colorado
+            answer: CO
+            feedback:
+                correct_answer: That is correct good job!
+                incorrect_answer: Sorry that is not a correct answer.  The correct answer is CO.
+
+        -   question: What is the abbreviation of Utah
+            answer: UT
+            feedback:
+                correct_answer: That is correct good job!
+                incorrect_answer: Sorry that is not a correct answer.  The correct answer is UT.
+
+        -   question: What is the abbreviation of Nevada
+            answer: NV
+            feedback:
+                correct_answer: That is correct good job!
+                incorrect_answer: Sorry that is not a correct answer.  The correct answer is NV.
+
+        -   question: What is the abbreviation of New Mexico
+            answer: NM
+            feedback:
+                correct_answer: That is correct good job!
+                incorrect_answer: Sorry that is not a correct answer.  The correct answer is NM.
+
+    -   question_set: Southwest Typed Answer
+        questions:
+        -   question: What is the abbreviation of Oklahoma
+            answer: OK
+            feedback:
+                correct_answer: That is correct good job!
+                incorrect_answer: Sorry that is not a correct answer.  The correct answer is OK.
+
+        -   question: What is the abbreviation of Texas
+            answer: TX
+            feedback:
+                correct_answer: That is correct good job!
+                incorrect_answer: Sorry that is not a correct answer.  The correct answer is TX.
+
+        -   question: What is the abbreviation of New Mexico
+            answer: NM
+            feedback:
+                correct_answer: That is correct good job!
+                incorrect_answer: Sorry that is not a correct answer.  The correct answer is NM.
+
+        -   question: What is the abbreviation of Arizona
+            answer: AZ
+            feedback:
+                correct_answer: That is correct good job!
+                incorrect_answer: Sorry that is not a correct answer.  The correct answer is AZ.
+
+    -   question_set: Northeast Typed Answer
+        questions:
+        -   question: What is the abbreviation of Maine
+            answer: ME
+            feedback:
+                correct_answer: That is correct good job!
+                incorrect_answer: Sorry that is not a correct answer.  The correct answer is ME.
+
+        -   question: What is the abbreviation of New York
+            answer: NY
+            feedback:
+                correct_answer: That is correct good job!
+                incorrect_answer: Sorry that is not a correct answer.  The correct answer is NY.
+
+        -   question: What is the abbreviation of New Jersey
+            answer: NJ
+            feedback:
+                correct_answer: That is correct good job!
+                incorrect_answer: Sorry that is not a correct answer.  The correct answer is NJ.
+
+        -   question: What is the abbreviation of Rhode Island
+            answer: RI
+            feedback:
+                correct_answer: That is correct good job!
+                incorrect_answer: Sorry that is not a correct answer.  The correct answer is RI.
+
+        -   question: What is the abbreviation of Pennsylvania
+            answer: PA
+            feedback:
+                correct_answer: That is correct good job!
+                incorrect_answer: Sorry that is not a correct answer.  The correct answer is PA.
+
+        -   question: What is the abbreviation of New Hampshire
+            answer: NH
+            feedback:
+                correct_answer: That is correct good job!
+                incorrect_answer: Sorry that is not a correct answer.  The correct answer is NH.
+
+        -   question: What is the abbreviation of Vermont
+            answer: VT
+            feedback:
+                correct_answer: That is correct good job!
+                incorrect_answer: Sorry that is not a correct answer.  The correct answer is VT.
+
+        -   question: What is the abbreviation of Massachusetts
+            answer: MA
+            feedback:
+                correct_answer: That is correct good job!
+                incorrect_answer: Sorry that is not a correct answer.  The correct answer is MA.
+
+        -   question: What is the abbreviation of Connecticut
+            answer: CT
+            feedback:
+                correct_answer: That is correct good job!
+                incorrect_answer: Sorry that is not a correct answer.  The correct answer is CT.

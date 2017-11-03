@@ -1,4 +1,4 @@
---- # States, and Capitals Version: 1.0.0
+--- # States, and Capitals Version: 1.0.1
 question_sets:
     -   question_set: Midwest Multiple Choice
         questions:
@@ -134,7 +134,7 @@ question_sets:
                 correct_answer: That is correct good job!
                 incorrect_answer: Sorry that is not a correct answer.  The correct answer is Madison.
 
-    -   question_set: Midwest Multiple Typed Answer
+    -   question_set: Midwest Typed Answer
         questions:
         -   question: What is the state capital of Illinois
             answer: Springfield

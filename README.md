@@ -10,11 +10,10 @@
 
 ### Requirements
 
-* directories==1.0.5
+* directories==1.0.7
 * persistentdatatools==2.2.8
-* PyYAML==3.12
+* PyYAML==4.2b4
 * menusys==1.1.5
-* pyreadline >=2.1, < 3;platform_system==Windows
 
 ### Languages
 
